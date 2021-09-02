@@ -3,9 +3,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ranika-madurawe/)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@ranikamadurawe)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ranikamadurawe.ranikamadurawe)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranikamadurawe&theme=prussian&show_icons=true&count_private=true)
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranikamadurawe&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&include_all_issue=true&bg_color=003153&text_color=b5d3e7&title_color=b5d3e7" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranikamadurawe&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=003153&text_color=b5d3e7&title_color=b5d3e7"/>
+</p>
 
 <!--
 **ranikamadurawe/ranikamadurawe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
